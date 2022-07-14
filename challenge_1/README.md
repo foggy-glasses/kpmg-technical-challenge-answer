@@ -1,5 +1,7 @@
 # CHALLENGE 1
 
+![3 tier architecture](https://github.com/foggy-glasses/kpmg-technical-challenge-answer/blob/main/challenge_1/aws-architeecture-3-tier-example.png "AWS 3 Tier Architecture")
+
 The 3 tier architecture diagram is found in the same folder (aws-architeecture-3-tier-example.png). This is taken from AWS documentation https://docs.aws.amazon.com/managedservices/latest/appguide/cfn-ingest-ex-3-tier.html
 
 The are 3 main components for this architecture viz.
