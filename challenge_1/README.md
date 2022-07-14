@@ -1,5 +1,11 @@
 # CHALLENGE 1
 
+### Question
+
+> A 3-tier environment is a common setup. Use a tool of your choosing/familiarity create these
+> resources. Please remember we will not be judged on the outcome but more focusing on the
+> approach, style and reproducibility.
+
 ![3 tier architecture](https://github.com/foggy-glasses/kpmg-technical-challenge-answer/blob/main/challenge_1/aws-architeecture-3-tier-example.png "AWS 3 Tier Architecture")
 
 The 3 tier architecture diagram is found in the same folder (aws-architeecture-3-tier-example.png). This is taken from AWS documentation https://docs.aws.amazon.com/managedservices/latest/appguide/cfn-ingest-ex-3-tier.html
